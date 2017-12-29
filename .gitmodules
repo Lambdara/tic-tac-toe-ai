@@ -1,0 +1,6 @@
+[submodule "racket-neural-network"]
+	path = racket-neural-network
+	url = git@github.com:Uwila/racket-neural-network.git
+[submodule "racket-tic-tac-toe"]
+	path = racket-tic-tac-toe
+	url = git@github.com:Uwila/racket-tic-tac-toe.git
