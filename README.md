@@ -6,7 +6,7 @@ The results:
 
 ![result](/result.png)
 
-On the Y-axis is the winrate of the AI, on the X-axis is the amount of games for which the AI has trained. Graphed are the winrates over time of the AI versus a random move generator, and versus a random legal move generator.
+On the Y-axis is the winrate of the AI, on the X-axis is the amount of games for which the AI has trained. Graphed are the winrates over time of the AI versus a random move generator, and versus a random legal move generator. (An illegal move makes the player lose the game immediatly; this was done so that the AI also learned to obey the rules rather than just being forced to obey the rules.)
 
 The AI which produced this graph has been tested and found to never lose. Though of course this is no guarantee because the initialization and the learning process are both not completely deterministic.
 
